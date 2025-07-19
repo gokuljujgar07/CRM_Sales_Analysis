@@ -4,6 +4,10 @@
 This project presents a detailed CRM Sales Analysis using Power BI. It visualizes and summarizes key business performance indicators to support data-driven decision-making for product strategy, sales optimization, and customer segmentation.
 
 
+
+![cover](https://github.com/user-attachments/assets/65b5120d-d801-41dd-824f-7148d645cea2)
+
+
 ## 🪜 Steps Involved :
 1. **Data Import and Integration** :
 - Multiple datasets were imported and transformed using Power Query in Power BI.
@@ -25,6 +29,10 @@ This project presents a detailed CRM Sales Analysis using Power BI. It visualize
 - Created various visualizations including bar charts, line charts, pie charts, scatter plots, and maps to represent key metrics and trends.
 - Developed interactive dashboards, incorporating features like slicers, and tooltips to enable dynamic data exploration.
 - Ensured that visualizations were clear, informative, and visually appealing.
+
+
+![cover](https://github.com/user-attachments/assets/ef6888cf-69ed-4cea-bd58-2723dcd0ec66)
+
 
 
 ## 📈 Overall Sales Performance
@@ -72,6 +80,8 @@ These accounts represent major revenue streams and should be prioritized for rel
 ## 🕰️ Customer Company Age Analysis
 - Companies established after the year 2000 generate the highest revenue.
 - Organizations founded before 1990 contribute very little to overall revenue, indicating a stronger product-market fit with younger or more modern businesses.
+
+![Performnce](https://github.com/user-attachments/assets/212e39b9-f88b-4f51-9e80-430985719ffd)
 
 
 ## ✅ Recommendations
