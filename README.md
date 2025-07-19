@@ -4,8 +4,10 @@
 This project presents a detailed CRM Sales Analysis using Power BI. It visualizes and summarizes key business performance indicators to support data-driven decision-making for product strategy, sales optimization, and customer segmentation.
 
 
+[<img src="https://github.com/user-attachments/assets/b5abe187-5beb-4a89-aca7-93de72a92943" alt="cover" width="1000" height="450">](https://github.com/user-attachments/assets/b5abe187-5beb-4a89-aca7-93de72a92943)
 
-![cover](https://github.com/user-attachments/assets/65b5120d-d801-41dd-824f-7148d645cea2)
+
+
 
 
 ## 🪜 Steps Involved :
@@ -31,8 +33,7 @@ This project presents a detailed CRM Sales Analysis using Power BI. It visualize
 - Ensured that visualizations were clear, informative, and visually appealing.
 
 
-![cover](https://github.com/user-attachments/assets/ef6888cf-69ed-4cea-bd58-2723dcd0ec66)
-
+![Overview](https://github.com/user-attachments/assets/cacdc1d3-731b-462e-8c60-614daea7ad2d)
 
 
 ## 📈 Overall Sales Performance
