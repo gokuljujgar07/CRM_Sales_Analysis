@@ -33,8 +33,7 @@ This project presents a detailed CRM Sales Analysis using Power BI. It visualize
 - Ensured that visualizations were clear, informative, and visually appealing.
 
 
-![Overview](https://github.com/user-attachments/assets/cacdc1d3-731b-462e-8c60-614daea7ad2d)
-
+![Overview](https://github.com/user-attachments/assets/a9eb0275-9734-4058-9119-0ddbd88d9cd0)
 
 ## 📈 Overall Sales Performance
 
@@ -79,7 +78,7 @@ The top companies by revenue contribution include:
 These accounts represent major revenue streams and should be prioritized for relationship management and growth strategies.
 
 
-![Performnce](https://github.com/user-attachments/assets/212e39b9-f88b-4f51-9e80-430985719ffd)
+![Performnce](https://github.com/user-attachments/assets/25f506c2-90a7-4823-81b9-ce895c9f37ab)
 
 
 ## ✅ Recommendations
