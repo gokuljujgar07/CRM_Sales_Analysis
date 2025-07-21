@@ -78,9 +78,6 @@ The top companies by revenue contribution include:
 - Konex
 These accounts represent major revenue streams and should be prioritized for relationship management and growth strategies.
 
-## 🕰️ Customer Company Age Analysis
-- Companies established after the year 2000 generate the highest revenue.
-- Organizations founded before 1990 contribute very little to overall revenue, indicating a stronger product-market fit with younger or more modern businesses.
 
 ![Performnce](https://github.com/user-attachments/assets/212e39b9-f88b-4f51-9e80-430985719ffd)
 
