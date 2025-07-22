@@ -30,7 +30,7 @@ This project presents a detailed CRM Sales Analysis using Power BI. It visualize
 - Ensured that visualizations were clear, informative, and visually appealing.
 
 
-![Overview](https://github.com/user-attachments/assets/a9eb0275-9734-4058-9119-0ddbd88d9cd0)
+![Overview](https://github.com/user-attachments/assets/6972c9a6-4104-4b36-a7f0-083f8c77be61)
 
 ## 📈 Overall Sales Performance
 
