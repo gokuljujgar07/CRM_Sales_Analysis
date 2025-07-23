@@ -29,8 +29,8 @@ This project presents a detailed CRM Sales Analysis using Power BI. It visualize
 - Developed interactive dashboards, incorporating features like slicers, and tooltips to enable dynamic data exploration.
 - Ensured that visualizations were clear, informative, and visually appealing.
 
+![Schema](https://github.com/user-attachments/assets/8d715211-3b5d-4b29-a6cc-1cc63f4369d2)
 
-![Overview](https://github.com/user-attachments/assets/6972c9a6-4104-4b36-a7f0-083f8c77be61)
 
 ## 📈 Overall Sales Performance
 
@@ -74,6 +74,9 @@ The top companies by revenue contribution include:
 - Konex
 These accounts represent major revenue streams and should be prioritized for relationship management and growth strategies.
 
+![Overview](https://github.com/user-attachments/assets/6972c9a6-4104-4b36-a7f0-083f8c77be61)
+
+---
 
 ![Performnce](https://github.com/user-attachments/assets/25f506c2-90a7-4823-81b9-ce895c9f37ab)
 
